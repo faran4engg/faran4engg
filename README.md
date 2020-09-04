@@ -8,7 +8,7 @@
 
 </p>
 <p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> </p>
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h2>⚡️ Few Quick Facts</h2>
 
