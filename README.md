@@ -7,21 +7,23 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg)
 
 </p>
-<p>
+
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h2>⚡️ Few Quick Facts</h2>
+<!-- <h2>⚡️ Few Quick Facts</h2> -->
 
-<ul>
-<li>👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">React Dark Light UI npm Library</a>.</li>
-<li>🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode.</li>
-<li>👨‍💻 Most of my projects are available on <a target="_blank"  href="https://github.com/faran4engg">faran4engg Github</a>.</li>
+✅ 👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">React Dark Light UI npm Library</a>
 
-<li>💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>.</li>
-<li>📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文 😅</li>
-</ul>
-</p>
+✅ 🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode
+
+✅ 👨‍💻 Most of my projects are available on <a target="_blank"  href="https://github.com/faran4engg">faran4engg Github</a>
+
+✅ 💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>
+
+✅ 📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.
+
+✅ 🎉 Fun Fact: 我也会讲中文 😅
+
 <h2>🚀 Some Tools I Use</h2>
 
 <p>
