@@ -19,7 +19,7 @@
 
 - 👨‍💻 Most of my projects are available on `faran4engg` <a target="_blank"  href="https://github.com/faran4engg">Github</a>
 
-- 💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>
+- 💬 Ping me about <strong>Web Development, </strong>Lets grow together
 
 - 📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.
 
