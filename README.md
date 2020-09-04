@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
-<p>I'm a Frontend Developer <strong><a href="https://travix.com/">@Travix</a></strong> based in Amsterdam. 🔭 I’m currently working on <strong>React Dark Light UI</strong><a href="https://www.npmjs.com/package/react-dark-light-ui"> npm package</a>. <br />
+<p>I'm a Frontend Developer <strong><a href="https://travix.com/">@Travix</a></strong> based in Amsterdam. 🔭 I’m currently working on <strong>React Dark Light UI</strong><a href="https://www.npmjs.com/package/react-dark-light-ui"> npm package</a>.
+
 <a href="https://www.linkedin.com/in/faran4engg/"><img src="https://img.shields.io/badge/-@faran4engg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/faran4engg/" alt="LinkedIn Badge"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg)
