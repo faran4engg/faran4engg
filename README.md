@@ -12,17 +12,17 @@
 
 <!-- <h2>⚡️ Few Quick Facts</h2> -->
 
-✅ 👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">React Dark Light UI npm Library</a>
+- 👯 I’m looking to collaborate on `React Dark Light UI` <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">npm Library</a>
 
-✅ 🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode
+- 🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with `Dark and Light` mode
 
-✅ 👨‍💻 Most of my projects are available on <a target="_blank"  href="https://github.com/faran4engg">faran4engg Github</a>
+- 👨‍💻 Most of my projects are available on `faran4engg` <a target="_blank"  href="https://github.com/faran4engg">Github</a>
 
-✅ 💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>
+- 💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>
 
-✅ 📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.
+- 📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.
 
-✅ 🎉 Fun Fact: 我也会讲中文 😅
+- 🎉 Fun Fact: 我也会讲中文 😅
 
 <h2>🚀 Some Tools I Use</h2>
 
