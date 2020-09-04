@@ -41,4 +41,4 @@
 
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="faran4engg" />
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faran4engg&hide=css&theme=nord" alt="faran4engg" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faran4engg&hide=css&theme=nord&layout=compact" alt="faran4engg" />
