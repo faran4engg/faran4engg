@@ -9,7 +9,6 @@
 </p>
 <p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> </p>
-<br />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
