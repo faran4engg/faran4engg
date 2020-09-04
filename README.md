@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
 
 <p>I'm a Frontend Developer <strong><a target="_blank"  href="https://travix.com/">@Travix</a></strong> based in Amsterdam. 🔭 I’m currently working on <strong>React Dark Light UI</strong><a target="_blank"  href="https://www.npmjs.com/package/react-dark-light-ui"> npm package</a>.
 
@@ -10,9 +10,9 @@
 <p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> </p>
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
+<h2>⚡️ Few Quick Facts</h2>
 
+<ul>
 <li>👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">React Dark Light UI npm Library</a>.</li>
 <li>🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode.</li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank"  href="https://github.com/faran4engg">faran4engg Github</a>.</li>
