@@ -7,8 +7,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg)
 
 </p>
-<p>
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<p>
 
 <h2>⚡️ Few Quick Facts</h2>
 
