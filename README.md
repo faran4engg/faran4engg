@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
-<!--
-**faran4engg/faran4engg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a Frontend Developer <strong><a href="https://travix.com/">@Travix</a></strong> based in Amsterdam. 🔭 I’m currently working on <strong>React Dark Light UI</strong><a href="https://www.npmjs.com/package/react-dark-light-ui"> npm package</a>. <br />
+<a href="https://www.linkedin.com/in/faran4engg/"><img src="https://img.shields.io/badge/-@faran4engg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/faran4engg/" alt="LinkedIn Badge"></a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> </p>
+<br />
+
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+
+<li>👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui">React Dark Light UI npm Library</a>.</li>
+<li>🌗 Checkout my <a href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/faran4engg">faran4engg Github</a>.</li>
+
+<li>💬 Ping me about <strong>React and web development stuff, Lets grow together</strong>.</li>
+<li>📙 Check out <a href="https://faran-cv.web.app/">Faran's Web Resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
+</ul>
+
+<h2>🚀 Some Tools I Use</h2>
+
+<p>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true" alt="faran4engg" />
