@@ -39,6 +39,7 @@
 </p>
 <br />
 
-<img  align="left" style="padding: 0" src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="faran4engg" />
-<br />
-<img align="right" style="padding: 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faran4engg&hide=css&theme=nord&layout=compact" alt="faran4engg" />
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="faran4engg" />
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faran4engg&hide=css&theme=nord" alt="faran4engg" />
+</p>
