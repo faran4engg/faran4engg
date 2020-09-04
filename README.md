@@ -2,9 +2,10 @@
 
 <p>I'm a Frontend Developer <strong><a target="_blank"  href="https://travix.com/">@Travix</a></strong> based in Amsterdam. 🔭 I’m currently working on <strong>React Dark Light UI</strong><a target="_blank"  href="https://www.npmjs.com/package/react-dark-light-ui"> npm package</a>.
 
+<p align="left">
 <a target="_blank"  href="https://www.linkedin.com/in/faran4engg/"><img src="https://img.shields.io/badge/-@faran4engg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/faran4engg/" alt="LinkedIn Badge"></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg)
+<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=faran4engg.faran4engg" alt="Vistor Badge"></a>
+</p>
 
 </p>
 
