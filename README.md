@@ -39,4 +39,6 @@
 </p>
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true" alt="faran4engg" />
+<img src="https://github-readme-stats.vercel.app/api?username=faran4engg&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="faran4engg" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faran4engg&hide=css&theme=nord)](https://github.com/faran4engg/github-readme-stats&)
