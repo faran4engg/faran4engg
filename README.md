@@ -13,7 +13,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 
-<li>👯 I’m looking to collaborate on <a target="_blank"  href="https://www.npmjs.com/package/react-dark-light-ui">React Dark Light UI npm Library</a>.</li>
+<li>👯 I’m looking to collaborate on <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">React Dark Light UI npm Library</a>.</li>
 <li>🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with Dark and Light mode.</li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank"  href="https://github.com/faran4engg">faran4engg Github</a>.</li>
 
