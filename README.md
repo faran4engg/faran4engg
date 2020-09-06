@@ -23,7 +23,7 @@
 
 - 📙 Check out <a target="_blank"  href="https://faran-cv.web.app/">Faran's Web Resume</a>.
 
-- 🎉 Fun Fact: 我也会讲中文 😅
+- 🎉 Fun Fact: أردت أن أصبح طبيبة 😅
 
 <h2>🚀 Technology[ ]</h2>
 
