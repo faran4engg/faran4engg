@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <!-- <h2>⚡️ Few Quick Facts</h2> -->
 
-- 👯 I’m looking to collaborate on `React Dark Light UI` <a href="https://www.npmjs.com/package/react-dark-light-ui" target="_blank">npm Library</a>
+- 👯 I’m looking to collaborate on `react-reusable-video-library` <a href="https://github.com/faran4engg/react-reusable-video-library" target="_blank">project</a>
 
 - 🌗 Checkout my <a target="_blank"  href="https://faran-whatsapp.web.app/login">whatsApp clone </a>with `Dark and Light` mode
 
